@@ -1,0 +1,9 @@
+# Repository owner
+* @BrianMcMaster
+
+# GitHub automation oversight
+.github/** @BrianMcMaster
+
+# Sensitive files
+LICENSE @BrianMcMaster
+SECURITY.md @BrianMcMaster

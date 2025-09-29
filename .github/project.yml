@@ -1,0 +1,25 @@
+description: Let's Vibe
+name: ai_native_python_demo
+origin:
+  generated: true
+  template:
+    branch: main
+    commit hash: 5dd9e2237ce22c8b6b79a20ae6079210e315d2ae
+    cookiecutter:
+      _checkout: null
+      _repo_dir: /Users/brianmcmaster/.cookiecutters/ai-native-python
+      _template: gh:zenable-io/ai-native-python
+      company_domain: brianmcmaster.com
+      company_name: Brian McMaster
+      dockerhub: 'yes'
+      github_org: BrianMcMaster
+      license: MIT
+      project_name: ai-native-python-demo
+      project_owner_github_username: BrianMcMaster
+      project_short_description: Let's Vibe
+      project_slug: ai_native_python_demo
+      public: 'yes'
+      python_version: '3.13'
+    dirty: false
+    location: https://github.com/zenable-io/ai-native-python.git
+  timestamp: '2025-09-29T20:22:59+00:00'
