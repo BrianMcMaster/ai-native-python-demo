@@ -8,12 +8,15 @@ ai
 ai-native-python-demo
 allstar
 brianmcmaster.com
+conftest
 demo
 dependabot
+docstrings
 native
 python
 refurb
 renovatebot
 skopeo
 syft
+Taskfile
 zenable
